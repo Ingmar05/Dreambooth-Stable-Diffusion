@@ -13,7 +13,6 @@ venv
 /trained_models/
 /Stable-Diffusion-Regularization-Images-*/
 /regularization_images/
-/training_images/
 *.ckpt
 /joepenna-dreambooth-configs/
 /src/
