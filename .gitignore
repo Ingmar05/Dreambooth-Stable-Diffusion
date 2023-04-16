@@ -10,7 +10,6 @@ logs
 venv
 *.egg-info
 *.ckpt
-/trained_models/
 /Stable-Diffusion-Regularization-Images-*/
 /regularization_images/
 *.ckpt
